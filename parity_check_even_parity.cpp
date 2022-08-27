@@ -27,7 +27,6 @@ int main()
     }
     cout<<"ORIGINAL DATA :";
     cout<<data<<endl;
-    int c=length+1;
     if(count%2==0)
     {
 	data[length]='0';
